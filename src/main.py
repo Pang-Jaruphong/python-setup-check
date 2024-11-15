@@ -26,6 +26,7 @@ def main():
 
     # Print the result
     print("Result:", result)
+    print("Hello pang")
 
 
 # Call the main function to run the program
